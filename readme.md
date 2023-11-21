@@ -4,7 +4,7 @@ Name : K.Santhan Kumar
 
 Department : AIML
 
-Reference N0 : 23004568
+Reference No : 23004568
 # AIM : 
 Display user profile data using template-view-model in django framework.
 # STEP 1 : Create a Django Project
