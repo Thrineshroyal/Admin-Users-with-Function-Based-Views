@@ -141,12 +141,14 @@ INSTALLED_APPS = [
 User Profiles creation successful:
 
 
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/a0f7939e-0d34-467a-a75b-3f675e430d95)
+![image](https://github.com/Thrineshroyal/Admin-Users-with-Function-Based-Views/assets/145741928/97eeca58-bcb9-4bd0-944c-9e91ae0573f9)
+
 
 Verifying the Admin Users :
 
 
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/cc0723dc-23b5-42cd-ba94-96a882d7c79d)
+![image](https://github.com/Thrineshroyal/Admin-Users-with-Function-Based-Views/assets/145741928/b64ea1e6-962d-4cee-9a29-4ba9257c7af8)
+
 
 # RESULT : 
 Created a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users successfully
